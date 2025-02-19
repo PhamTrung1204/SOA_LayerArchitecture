@@ -1,4 +1,4 @@
-📌 **Project: Layered Architecture with ASP.NET Core & SQL Server**
+## 📌 **Project: Layered Architecture with ASP.NET Core & SQL Server**
 
 ---
 
@@ -32,7 +32,7 @@ LayerArchitecture/
 ## ⚙️ Installation
 ### 1️⃣ Clone the repository:
 ```sh
-git clone https://github.com/your-repo/LayerArchitecture.git
+git clone [https://github.com/PhamTrung1204/SOA_LayerArchitecture.git]
 cd LayerArchitecture
 ```
 ### 2️⃣ Install required NuGet packages:
