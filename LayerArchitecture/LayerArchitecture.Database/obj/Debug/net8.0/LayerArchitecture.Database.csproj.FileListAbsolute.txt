@@ -12,3 +12,4 @@ C:\Users\PhamTrung\Desktop\SOA\LayerArchitecture\LayerArchitecture.Database\obj\
 C:\Users\PhamTrung\Desktop\SOA\LayerArchitecture\LayerArchitecture.Database\obj\Debug\net8.0\LayerArchitecture.Database.pdb
 C:\Users\PhamTrung\Desktop\SOA\LayerArchitecture\LayerArchitecture.Database\obj\Debug\net8.0\LayerArchitecture.Database.genruntimeconfig.cache
 C:\Users\PhamTrung\Desktop\SOA\LayerArchitecture\LayerArchitecture.Database\obj\Debug\net8.0\ref\LayerArchitecture.Database.dll
+C:\Users\PhamTrung\Desktop\SOA\LayerArchitecture\LayerArchitecture.Database\obj\Debug\net8.0\LayerArchitecture.Database.sourcelink.json

@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AEBA148D-248F-4D6B-AA58-8C4CCD7AAEC2}|LayerArchitecture\\LayerArchitecture.csproj|c:\\users\\phamtrung\\desktop\\soa\\layerarchitecture\\layerarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEBA148D-248F-4D6B-AA58-8C4CCD7AAEC2}|LayerArchitecture\\LayerArchitecture.csproj|solutionrelative:layerarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AEBA148D-248F-4D6B-AA58-8C4CCD7AAEC2}|LayerArchitecture\\LayerArchitecture.csproj|c:\\users\\phamtrung\\desktop\\soa\\layerarchitecture\\layerarchitecture\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEBA148D-248F-4D6B-AA58-8C4CCD7AAEC2}|LayerArchitecture\\LayerArchitecture.csproj|solutionrelative:layerarchitecture\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE2FCF33-E8E2-4606-9634-BBD5A984F64C}|LayerArchitecture.Database\\LayerArchitecture.Database.csproj|c:\\users\\phamtrung\\desktop\\soa\\layerarchitecture\\layerarchitecture.database\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE2FCF33-E8E2-4606-9634-BBD5A984F64C}|LayerArchitecture.Database\\LayerArchitecture.Database.csproj|solutionrelative:layerarchitecture.database\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE2FCF33-E8E2-4606-9634-BBD5A984F64C}|LayerArchitecture.Database\\LayerArchitecture.Database.csproj|c:\\users\\phamtrung\\desktop\\soa\\layerarchitecture\\layerarchitecture.database\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2FCF33-E8E2-4606-9634-BBD5A984F64C}|LayerArchitecture.Database\\LayerArchitecture.Database.csproj|solutionrelative:layerarchitecture.database\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE2FCF33-E8E2-4606-9634-BBD5A984F64C}|LayerArchitecture.Database\\LayerArchitecture.Database.csproj|c:\\users\\phamtrung\\desktop\\soa\\layerarchitecture\\layerarchitecture.database\\migrations\\20250219135459_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE2FCF33-E8E2-4606-9634-BBD5A984F64C}|LayerArchitecture.Database\\LayerArchitecture.Database.csproj|solutionrelative:layerarchitecture.database\\migrations\\20250219135459_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE2FCF33-E8E2-4606-9634-BBD5A984F64C}|LayerArchitecture.Database\\LayerArchitecture.Database.csproj|c:\\users\\phamtrung\\desktop\\soa\\layerarchitecture\\layerarchitecture.database\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2FCF33-E8E2-4606-9634-BBD5A984F64C}|LayerArchitecture.Database\\LayerArchitecture.Database.csproj|solutionrelative:layerarchitecture.database\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE2FCF33-E8E2-4606-9634-BBD5A984F64C}|LayerArchitecture.Database\\LayerArchitecture.Database.csproj|c:\\users\\phamtrung\\desktop\\soa\\layerarchitecture\\layerarchitecture.database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE2FCF33-E8E2-4606-9634-BBD5A984F64C}|LayerArchitecture.Database\\LayerArchitecture.Database.csproj|solutionrelative:layerarchitecture.database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D3D7A60-6562-4355-8C13-FAD1D37A7092}|LayerArchitecture.Business\\LayerArchitecture.Business.csproj|c:\\users\\phamtrung\\desktop\\soa\\layerarchitecture\\layerarchitecture.business\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3D7A60-6562-4355-8C13-FAD1D37A7092}|LayerArchitecture.Business\\LayerArchitecture.Business.csproj|solutionrelative:layerarchitecture.business\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F3E90A33-00AC-4C58-A4D1-30FF1FC21467}|LayerArchitecture.Persistence\\LayerArchitecture.Persistence.csproj|c:\\users\\phamtrung\\desktop\\soa\\layerarchitecture\\layerarchitecture.persistence\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3E90A33-00AC-4C58-A4D1-30FF1FC21467}|LayerArchitecture.Persistence\\LayerArchitecture.Persistence.csproj|solutionrelative:layerarchitecture.persistence\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE2FCF33-E8E2-4606-9634-BBD5A984F64C}|LayerArchitecture.Database\\LayerArchitecture.Database.csproj|c:\\users\\phamtrung\\desktop\\soa\\layerarchitecture\\layerarchitecture.database\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE2FCF33-E8E2-4606-9634-BBD5A984F64C}|LayerArchitecture.Database\\LayerArchitecture.Database.csproj|solutionrelative:layerarchitecture.database\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AEBA148D-248F-4D6B-AA58-8C4CCD7AAEC2}|LayerArchitecture\\LayerArchitecture.csproj|c:\\users\\phamtrung\\desktop\\soa\\layerarchitecture\\layerarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEBA148D-248F-4D6B-AA58-8C4CCD7AAEC2}|LayerArchitecture\\LayerArchitecture.csproj|solutionrelative:layerarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2FCF33-E8E2-4606-9634-BBD5A984F64C}|LayerArchitecture.Database\\LayerArchitecture.Database.csproj|c:\\users\\phamtrung\\desktop\\soa\\layerarchitecture\\layerarchitecture.database\\migrations\\20250219150804_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2FCF33-E8E2-4606-9634-BBD5A984F64C}|LayerArchitecture.Database\\LayerArchitecture.Database.csproj|solutionrelative:layerarchitecture.database\\migrations\\20250219150804_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEBA148D-248F-4D6B-AA58-8C4CCD7AAEC2}|LayerArchitecture\\LayerArchitecture.csproj|c:\\users\\phamtrung\\desktop\\soa\\layerarchitecture\\layerarchitecture\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AEBA148D-248F-4D6B-AA58-8C4CCD7AAEC2}|LayerArchitecture\\LayerArchitecture.csproj|solutionrelative:layerarchitecture\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2FCF33-E8E2-4606-9634-BBD5A984F64C}|LayerArchitecture.Database\\LayerArchitecture.Database.csproj|c:\\users\\phamtrung\\desktop\\soa\\layerarchitecture\\layerarchitecture.database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2FCF33-E8E2-4606-9634-BBD5A984F64C}|LayerArchitecture.Database\\LayerArchitecture.Database.csproj|solutionrelative:layerarchitecture.database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE2FCF33-E8E2-4606-9634-BBD5A984F64C}|LayerArchitecture.Database\\LayerArchitecture.Database.csproj|c:\\users\\phamtrung\\desktop\\soa\\layerarchitecture\\layerarchitecture.database\\layerarchitecture.database.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -35,10 +47,6 @@
       "RelativeMoniker": "D:0:0:{F3E90A33-00AC-4C58-A4D1-30FF1FC21467}|LayerArchitecture.Persistence\\LayerArchitecture.Persistence.csproj|solutionrelative:layerarchitecture.persistence\\layerarchitecture.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE2FCF33-E8E2-4606-9634-BBD5A984F64C}|LayerArchitecture.Database\\LayerArchitecture.Database.csproj|c:\\users\\phamtrung\\desktop\\soa\\layerarchitecture\\layerarchitecture.database\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE2FCF33-E8E2-4606-9634-BBD5A984F64C}|LayerArchitecture.Database\\LayerArchitecture.Database.csproj|solutionrelative:layerarchitecture.database\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0D3D7A60-6562-4355-8C13-FAD1D37A7092}|LayerArchitecture.Business\\LayerArchitecture.Business.csproj|c:\\users\\phamtrung\\desktop\\soa\\layerarchitecture\\layerarchitecture.business\\layerarchitecture.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0D3D7A60-6562-4355-8C13-FAD1D37A7092}|LayerArchitecture.Business\\LayerArchitecture.Business.csproj|solutionrelative:layerarchitecture.business\\layerarchitecture.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -47,20 +55,8 @@
       "RelativeMoniker": "D:0:0:{AEBA148D-248F-4D6B-AA58-8C4CCD7AAEC2}|LayerArchitecture\\LayerArchitecture.csproj|solutionrelative:layerarchitecture\\layerarchitecture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEBA148D-248F-4D6B-AA58-8C4CCD7AAEC2}|LayerArchitecture\\LayerArchitecture.csproj|c:\\users\\phamtrung\\desktop\\soa\\layerarchitecture\\layerarchitecture\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{AEBA148D-248F-4D6B-AA58-8C4CCD7AAEC2}|LayerArchitecture\\LayerArchitecture.csproj|solutionrelative:layerarchitecture\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AEBA148D-248F-4D6B-AA58-8C4CCD7AAEC2}|LayerArchitecture\\LayerArchitecture.csproj|c:\\users\\phamtrung\\desktop\\soa\\layerarchitecture\\layerarchitecture\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEBA148D-248F-4D6B-AA58-8C4CCD7AAEC2}|LayerArchitecture\\LayerArchitecture.csproj|solutionrelative:layerarchitecture\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEBA148D-248F-4D6B-AA58-8C4CCD7AAEC2}|LayerArchitecture\\LayerArchitecture.csproj|c:\\users\\phamtrung\\desktop\\soa\\layerarchitecture\\layerarchitecture\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEBA148D-248F-4D6B-AA58-8C4CCD7AAEC2}|LayerArchitecture\\LayerArchitecture.csproj|solutionrelative:layerarchitecture\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D3D7A60-6562-4355-8C13-FAD1D37A7092}|LayerArchitecture.Business\\LayerArchitecture.Business.csproj|c:\\users\\phamtrung\\desktop\\soa\\layerarchitecture\\layerarchitecture.business\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D3D7A60-6562-4355-8C13-FAD1D37A7092}|LayerArchitecture.Business\\LayerArchitecture.Business.csproj|solutionrelative:layerarchitecture.business\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D3D7A60-6562-4355-8C13-FAD1D37A7092}|LayerArchitecture.Business\\LayerArchitecture.Business.csproj|c:\\users\\phamtrung\\desktop\\soa\\layerarchitecture\\layerarchitecture.business\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -78,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,67 +86,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture.Database\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "LayerArchitecture.Database\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture.Database\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeToolTip": "LayerArchitecture.Database\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAQwBUAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T14:07:07.793Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20250219135459_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture.Database\\Migrations\\20250219135459_InitialCreate.cs",
-              "RelativeDocumentMoniker": "LayerArchitecture.Database\\Migrations\\20250219135459_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture.Database\\Migrations\\20250219135459_InitialCreate.cs",
-              "RelativeToolTip": "LayerArchitecture.Database\\Migrations\\20250219135459_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T13:54:59.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture.Database\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "LayerArchitecture.Database\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture.Database\\AppDbContext.cs",
-              "RelativeToolTip": "LayerArchitecture.Database\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T13:05:12.41Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture.Database\\Models\\Customer.cs",
-              "RelativeDocumentMoniker": "LayerArchitecture.Database\\Models\\Customer.cs",
-              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture.Database\\Models\\Customer.cs",
-              "RelativeToolTip": "LayerArchitecture.Database\\Models\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T13:07:38.701Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture\\Program.cs",
-              "RelativeDocumentMoniker": "LayerArchitecture\\Program.cs",
-              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture\\Program.cs",
-              "RelativeToolTip": "LayerArchitecture\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAaAAAAAAAAAA==",
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "LayerArchitecture\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "LayerArchitecture\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T13:19:56.678Z",
+              "WhenOpened": "2025-02-19T13:18:01.114Z",
               "EditorCaption": ""
             },
             {
@@ -161,131 +105,40 @@
               "RelativeDocumentMoniker": "LayerArchitecture.Persistence\\CustomerDAO.cs",
               "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture.Persistence\\CustomerDAO.cs",
               "RelativeToolTip": "LayerArchitecture.Persistence\\CustomerDAO.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAMwBIAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T13:10:39.667Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture.Database\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "LayerArchitecture.Database\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture.Database\\Models\\Customer.cs",
+              "RelativeToolTip": "LayerArchitecture.Database\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T13:07:38.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "LayerArchitecture.Database",
-              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture.Database\\LayerArchitecture.Database.csproj",
-              "RelativeDocumentMoniker": "LayerArchitecture.Database\\LayerArchitecture.Database.csproj",
-              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture.Database\\LayerArchitecture.Database.csproj",
-              "RelativeToolTip": "LayerArchitecture.Database\\LayerArchitecture.Database.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-19T13:41:21.429Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture.Database\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "LayerArchitecture.Database\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture.Database\\Models\\Order.cs",
-              "RelativeToolTip": "LayerArchitecture.Database\\Models\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T13:07:38.474Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LayerArchitecture.Persistence",
-              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture.Persistence\\LayerArchitecture.Persistence.csproj",
-              "RelativeDocumentMoniker": "LayerArchitecture.Persistence\\LayerArchitecture.Persistence.csproj",
-              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture.Persistence\\LayerArchitecture.Persistence.csproj",
-              "RelativeToolTip": "LayerArchitecture.Persistence\\LayerArchitecture.Persistence.csproj",
+              "Title": "20250219150804_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture.Database\\Migrations\\20250219150804_InitialCreate.cs",
+              "RelativeDocumentMoniker": "LayerArchitecture.Database\\Migrations\\20250219150804_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture.Database\\Migrations\\20250219150804_InitialCreate.cs",
+              "RelativeToolTip": "LayerArchitecture.Database\\Migrations\\20250219150804_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-19T13:41:26.478Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "LayerArchitecture.Business",
-              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture.Business\\LayerArchitecture.Business.csproj",
-              "RelativeDocumentMoniker": "LayerArchitecture.Business\\LayerArchitecture.Business.csproj",
-              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture.Business\\LayerArchitecture.Business.csproj",
-              "RelativeToolTip": "LayerArchitecture.Business\\LayerArchitecture.Business.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-19T13:41:30.279Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "LayerArchitecture",
-              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture\\LayerArchitecture.csproj",
-              "RelativeDocumentMoniker": "LayerArchitecture\\LayerArchitecture.csproj",
-              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture\\LayerArchitecture.csproj",
-              "RelativeToolTip": "LayerArchitecture\\LayerArchitecture.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-19T13:41:13.098Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture\\appsettings.json",
-              "RelativeDocumentMoniker": "LayerArchitecture\\appsettings.json",
-              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture\\appsettings.json",
-              "RelativeToolTip": "LayerArchitecture\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-19T13:21:37.313Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "LayerArchitecture\\Controllers\\OrderController.cs",
-              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "LayerArchitecture\\Controllers\\OrderController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwDIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T13:18:44.267Z",
+              "WhenOpened": "2025-02-19T15:08:05.004Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CustomerController.cs",
-              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture\\Controllers\\CustomerController.cs",
-              "RelativeDocumentMoniker": "LayerArchitecture\\Controllers\\CustomerController.cs",
-              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture\\Controllers\\CustomerController.cs",
-              "RelativeToolTip": "LayerArchitecture\\Controllers\\CustomerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAkwDEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T13:18:01.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CustomerService.cs",
-              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture.Business\\CustomerService.cs",
-              "RelativeDocumentMoniker": "LayerArchitecture.Business\\CustomerService.cs",
-              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture.Business\\CustomerService.cs",
-              "RelativeToolTip": "LayerArchitecture.Business\\CustomerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T13:11:59.414Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 3,
               "Title": "OrderService.cs",
               "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture.Business\\OrderService.cs",
               "RelativeDocumentMoniker": "LayerArchitecture.Business\\OrderService.cs",
@@ -298,7 +151,137 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture.Database\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "LayerArchitecture.Database\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture.Database\\Models\\Order.cs",
+              "RelativeToolTip": "LayerArchitecture.Database\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T13:07:38.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture\\Program.cs",
+              "RelativeDocumentMoniker": "LayerArchitecture\\Program.cs",
+              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture\\Program.cs",
+              "RelativeToolTip": "LayerArchitecture\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T13:19:56.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture.Database\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "LayerArchitecture.Database\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture.Database\\AppDbContext.cs",
+              "RelativeToolTip": "LayerArchitecture.Database\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T13:05:12.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture\\appsettings.json",
+              "RelativeDocumentMoniker": "LayerArchitecture\\appsettings.json",
+              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture\\appsettings.json",
+              "RelativeToolTip": "LayerArchitecture\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-19T13:21:37.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LayerArchitecture.Database.csproj",
+              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture.Database\\LayerArchitecture.Database.csproj",
+              "RelativeDocumentMoniker": "LayerArchitecture.Database\\LayerArchitecture.Database.csproj",
+              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture.Database\\LayerArchitecture.Database.csproj",
+              "RelativeToolTip": "LayerArchitecture.Database\\LayerArchitecture.Database.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-19T13:41:21.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LayerArchitecture.Persistence.csproj",
+              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture.Persistence\\LayerArchitecture.Persistence.csproj",
+              "RelativeDocumentMoniker": "LayerArchitecture.Persistence\\LayerArchitecture.Persistence.csproj",
+              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture.Persistence\\LayerArchitecture.Persistence.csproj",
+              "RelativeToolTip": "LayerArchitecture.Persistence\\LayerArchitecture.Persistence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-19T13:41:26.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LayerArchitecture.Business.csproj",
+              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture.Business\\LayerArchitecture.Business.csproj",
+              "RelativeDocumentMoniker": "LayerArchitecture.Business\\LayerArchitecture.Business.csproj",
+              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture.Business\\LayerArchitecture.Business.csproj",
+              "RelativeToolTip": "LayerArchitecture.Business\\LayerArchitecture.Business.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-19T13:41:30.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LayerArchitecture.csproj",
+              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture\\LayerArchitecture.csproj",
+              "RelativeDocumentMoniker": "LayerArchitecture\\LayerArchitecture.csproj",
+              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture\\LayerArchitecture.csproj",
+              "RelativeToolTip": "LayerArchitecture\\LayerArchitecture.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-19T13:41:13.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "LayerArchitecture\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "LayerArchitecture\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwDIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T13:18:44.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture.Business\\CustomerService.cs",
+              "RelativeDocumentMoniker": "LayerArchitecture.Business\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture.Business\\CustomerService.cs",
+              "RelativeToolTip": "LayerArchitecture.Business\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T13:11:59.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "OrderDAO.cs",
               "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA\\LayerArchitecture\\LayerArchitecture.Persistence\\OrderDAO.cs",
               "RelativeDocumentMoniker": "LayerArchitecture.Persistence\\OrderDAO.cs",

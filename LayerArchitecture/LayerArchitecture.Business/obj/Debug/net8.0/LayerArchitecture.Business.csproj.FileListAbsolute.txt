@@ -17,3 +17,4 @@ C:\Users\PhamTrung\Desktop\SOA\LayerArchitecture\LayerArchitecture.Business\obj\
 C:\Users\PhamTrung\Desktop\SOA\LayerArchitecture\LayerArchitecture.Business\obj\Debug\net8.0\LayerArchitecture.Business.pdb
 C:\Users\PhamTrung\Desktop\SOA\LayerArchitecture\LayerArchitecture.Business\obj\Debug\net8.0\LayerArchitecture.Business.genruntimeconfig.cache
 C:\Users\PhamTrung\Desktop\SOA\LayerArchitecture\LayerArchitecture.Business\obj\Debug\net8.0\ref\LayerArchitecture.Business.dll
+C:\Users\PhamTrung\Desktop\SOA\LayerArchitecture\LayerArchitecture.Business\obj\Debug\net8.0\LayerArchitecture.Business.sourcelink.json
