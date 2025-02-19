@@ -1,0 +1,14 @@
+C:\Users\PhamTrung\Desktop\SOA\LayerArchitecture\LayerArchitecture.Database\bin\Debug\net8.0\LayerArchitecture.Database.deps.json
+C:\Users\PhamTrung\Desktop\SOA\LayerArchitecture\LayerArchitecture.Database\bin\Debug\net8.0\LayerArchitecture.Database.runtimeconfig.json
+C:\Users\PhamTrung\Desktop\SOA\LayerArchitecture\LayerArchitecture.Database\bin\Debug\net8.0\LayerArchitecture.Database.dll
+C:\Users\PhamTrung\Desktop\SOA\LayerArchitecture\LayerArchitecture.Database\bin\Debug\net8.0\LayerArchitecture.Database.pdb
+C:\Users\PhamTrung\Desktop\SOA\LayerArchitecture\LayerArchitecture.Database\obj\Debug\net8.0\LayerArchitecture.Database.csproj.AssemblyReference.cache
+C:\Users\PhamTrung\Desktop\SOA\LayerArchitecture\LayerArchitecture.Database\obj\Debug\net8.0\LayerArchitecture.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PhamTrung\Desktop\SOA\LayerArchitecture\LayerArchitecture.Database\obj\Debug\net8.0\LayerArchitecture.Database.AssemblyInfoInputs.cache
+C:\Users\PhamTrung\Desktop\SOA\LayerArchitecture\LayerArchitecture.Database\obj\Debug\net8.0\LayerArchitecture.Database.AssemblyInfo.cs
+C:\Users\PhamTrung\Desktop\SOA\LayerArchitecture\LayerArchitecture.Database\obj\Debug\net8.0\LayerArchitecture.Database.csproj.CoreCompileInputs.cache
+C:\Users\PhamTrung\Desktop\SOA\LayerArchitecture\LayerArchitecture.Database\obj\Debug\net8.0\LayerArchitecture.Database.dll
+C:\Users\PhamTrung\Desktop\SOA\LayerArchitecture\LayerArchitecture.Database\obj\Debug\net8.0\refint\LayerArchitecture.Database.dll
+C:\Users\PhamTrung\Desktop\SOA\LayerArchitecture\LayerArchitecture.Database\obj\Debug\net8.0\LayerArchitecture.Database.pdb
+C:\Users\PhamTrung\Desktop\SOA\LayerArchitecture\LayerArchitecture.Database\obj\Debug\net8.0\LayerArchitecture.Database.genruntimeconfig.cache
+C:\Users\PhamTrung\Desktop\SOA\LayerArchitecture\LayerArchitecture.Database\obj\Debug\net8.0\ref\LayerArchitecture.Database.dll

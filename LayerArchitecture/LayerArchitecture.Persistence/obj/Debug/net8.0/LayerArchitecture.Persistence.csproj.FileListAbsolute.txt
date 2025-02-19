@@ -1,0 +1,17 @@
+C:\Users\PhamTrung\Desktop\SOA\LayerArchitecture\LayerArchitecture.Persistence\bin\Debug\net8.0\LayerArchitecture.Persistence.deps.json
+C:\Users\PhamTrung\Desktop\SOA\LayerArchitecture\LayerArchitecture.Persistence\bin\Debug\net8.0\LayerArchitecture.Persistence.runtimeconfig.json
+C:\Users\PhamTrung\Desktop\SOA\LayerArchitecture\LayerArchitecture.Persistence\bin\Debug\net8.0\LayerArchitecture.Persistence.dll
+C:\Users\PhamTrung\Desktop\SOA\LayerArchitecture\LayerArchitecture.Persistence\bin\Debug\net8.0\LayerArchitecture.Persistence.pdb
+C:\Users\PhamTrung\Desktop\SOA\LayerArchitecture\LayerArchitecture.Persistence\bin\Debug\net8.0\LayerArchitecture.Database.dll
+C:\Users\PhamTrung\Desktop\SOA\LayerArchitecture\LayerArchitecture.Persistence\bin\Debug\net8.0\LayerArchitecture.Database.pdb
+C:\Users\PhamTrung\Desktop\SOA\LayerArchitecture\LayerArchitecture.Persistence\obj\Debug\net8.0\LayerArchitecture.Persistence.csproj.AssemblyReference.cache
+C:\Users\PhamTrung\Desktop\SOA\LayerArchitecture\LayerArchitecture.Persistence\obj\Debug\net8.0\LayerArchitecture.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PhamTrung\Desktop\SOA\LayerArchitecture\LayerArchitecture.Persistence\obj\Debug\net8.0\LayerArchitecture.Persistence.AssemblyInfoInputs.cache
+C:\Users\PhamTrung\Desktop\SOA\LayerArchitecture\LayerArchitecture.Persistence\obj\Debug\net8.0\LayerArchitecture.Persistence.AssemblyInfo.cs
+C:\Users\PhamTrung\Desktop\SOA\LayerArchitecture\LayerArchitecture.Persistence\obj\Debug\net8.0\LayerArchitecture.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\PhamTrung\Desktop\SOA\LayerArchitecture\LayerArchitecture.Persistence\obj\Debug\net8.0\LayerArc.DF27FED0.Up2Date
+C:\Users\PhamTrung\Desktop\SOA\LayerArchitecture\LayerArchitecture.Persistence\obj\Debug\net8.0\LayerArchitecture.Persistence.dll
+C:\Users\PhamTrung\Desktop\SOA\LayerArchitecture\LayerArchitecture.Persistence\obj\Debug\net8.0\refint\LayerArchitecture.Persistence.dll
+C:\Users\PhamTrung\Desktop\SOA\LayerArchitecture\LayerArchitecture.Persistence\obj\Debug\net8.0\LayerArchitecture.Persistence.pdb
+C:\Users\PhamTrung\Desktop\SOA\LayerArchitecture\LayerArchitecture.Persistence\obj\Debug\net8.0\LayerArchitecture.Persistence.genruntimeconfig.cache
+C:\Users\PhamTrung\Desktop\SOA\LayerArchitecture\LayerArchitecture.Persistence\obj\Debug\net8.0\ref\LayerArchitecture.Persistence.dll
