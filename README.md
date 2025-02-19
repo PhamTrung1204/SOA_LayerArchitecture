@@ -1,4 +1,4 @@
- 📌 ***Project: Layered Architecture with ASP.NET Core & SQL Server***
+ 📌 *Project: Layered Architecture with ASP.NET Core & SQL Server*
 
 ---
 
